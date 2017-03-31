@@ -1,0 +1,42 @@
+C:\GIT\TestBot\Pluralsight\HotelBot\obj\Debug\HotelBot.csprojResolveAssemblyReference.cache
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Bot Application.dll.config
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Bot Application.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Bot Application.pdb
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Autofac.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Chronic.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.Bot.Builder.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.Bot.Connector.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Newtonsoft.Json.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\System.Net.Http.Formatting.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\System.Web.Http.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\System.Web.Http.WebHost.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Autofac.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.Bot.Builder.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.Bot.Connector.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\Newtonsoft.Json.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\System.Net.Http.Formatting.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\System.Web.Http.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\System.Web.Http.WebHost.xml
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\obj\Debug\Bot Application.dll
+C:\GIT\TestBot\Pluralsight\HotelBot\obj\Debug\Bot Application.pdb
